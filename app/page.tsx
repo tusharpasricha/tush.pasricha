@@ -103,15 +103,15 @@ export default function Page() {
         </div>
         <h1 className="mb-4 text-4xl font-bold">Tushar Pasricha</h1>
         <p className="mx-auto mb-6 max-w-2xl text-gray-400">
-          I'm a recent B.Tech graduate in Computer Science and Engineering with
+          I&apos;m a recent B.Tech graduate in Computer Science and Engineering with
           a passion for solving problems and learning something new every day.
           My focus is on understanding the core principles behind technology and
           finding practical ways to apply them.
         </p>
         <p className="mx-auto mb-8 max-w-2xl text-gray-400">
           I believe in approaching every project with curiosity and a
-          willingness to grow, knowing there's always more to learn. Whether in
-          development or life, I'm committed to staying adaptable and open to
+          willingness to grow, knowing there&apos;s always more to learn. Whether in
+          development or life, I&apos;m committed to staying adaptable and open to
           new challenges.
         </p>
         <div className="mb-8 flex justify-center gap-4">
